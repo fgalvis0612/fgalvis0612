@@ -35,7 +35,7 @@
 <hr width="36%" >
 
 <h3>Profile:</h3>
-Desarrollador en formación, apasionado por el aprendizaje y el desarrollo de aplicaciones web. Explorando frameworks como Laravel y Symfony, y enfocado en escribir código limpio y eficiente. Entusiasta de los proyectos de código abierto y siempre buscando nuevos desafíos y oportunidades para crecer. 📚💻🚀
+Aspiring developer, passionate about learning and web application development. Exploring frameworks like Laravel and Symfony, and focused on writing clean and efficient code. Enthusiast of open source projects and always seeking new challenges and opportunities to grow. 📚💻🚀
 <br>
 <hr width="60%" >
 
